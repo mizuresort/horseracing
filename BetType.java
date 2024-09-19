@@ -1,0 +1,5 @@
+public enum BetType { //馬券の種類を表す特殊クラス
+    TANSYOU,HUKUSYOU,OUEN,UMAREN,UMATAN,WIDE,SANRENTAN,SANRENPUKU
+
+
+}
